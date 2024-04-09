@@ -10,7 +10,7 @@ Welcome to the documentation for the My Awesome Store Management API! This API a
 - 🖼️ **Image Management**: Upload, retrieve, and serve images for your products.
 - ⚙️ **Customizable**: Easily customize and extend the API to suit your store's needs.
 - 🔒 **Security**: Includes built-in security features to protect your data.
-
+- 🆕 **More** : Soon...
 ## Installation
 
 To install and run the API locally, follow these steps:
