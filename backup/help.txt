@@ -1,0 +1,4 @@
+to this folder work go to ./config.js file and make the auto_backup to     true 
+the api get backup of mysql database every 1 h . 
+
+note : to create backup with api you can use     https://yourip:3000/backup 
